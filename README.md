@@ -2,7 +2,7 @@
 
 ---
 
-This Android app fetches json data from an AWS S3 URL, processes the data, and displays it in the app UI. You can test the application using the apk provided in the repository **"FetchBoltList_v1.apk"**
+This Android app fetches json data from an AWS S3 URL, processes the data, and displays it in the app UI. You can test the application using the apk provided in the repository **[FetchBoltList_v1.apk](https://github.com/nishantragate/FETCH_Bolt_List/blob/main/FetchBoltList_v1.apk)**
 
 #### Overview:
 
