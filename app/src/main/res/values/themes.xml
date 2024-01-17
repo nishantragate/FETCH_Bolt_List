@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <style name="Theme.FetchBoltList" parent="android:Theme.Material.Light.NoActionBar" />-->
+
+    <!-- Base application theme -->
+    <style name="Theme.FetchBoltList" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/boltcorp_background_color</item>
+        <item name="colorPrimaryDark">@color/boltcorp_background_color</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>

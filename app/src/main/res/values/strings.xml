@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FetchBoltList</string>
+    <string name="list_ids">List IDs</string>
+</resources>
