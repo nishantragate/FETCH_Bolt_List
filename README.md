@@ -6,7 +6,7 @@ This Android app fetches json data from an AWS S3 URL, processes the data, and d
 
 #### Overview:
 
-The app has 2 Activities:
+The app has 2 Activities and a basic Unit Test 'DataHandlerTest' for one of the methods of the DataHandler class (NOT fully covered yet):
 
 **1. MainActivity:**
 
